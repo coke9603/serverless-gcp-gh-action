@@ -1,5 +1,4 @@
-service: serverless-calculate-bmi-aumprueba
-
+service: serverless-calculate-bmi-aum
 provider:
   name: google
   stage: dev
